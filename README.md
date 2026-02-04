@@ -2,7 +2,7 @@
 
 I'm a passionate software developer from Córdoba, Argentina 🇦🇷.
 
-- 🎓 **Student**: Currently in my 2nd year of Software Development at ISPC.
+- 🎓 **Student**: Currently in my last year of Software Development at ISPC.
 - 💻 **Tech Stack**: Python, HTML, CSS, JavaScript, TypeScript, Angular, Kotlin, FastAPI, MySQL, PostgreSQL, SQLite, Jetpack Compose.
 - 📱 **Projects**: Building [BandMate](https://github.com/MirandaFrancoCBA/BandMate) (mobile app for music bands) and [BienestarPlus](https://github.com/ISPC-Soluciones/Bienestar-Plus) (web app for health & habits).
 - 🚀 **Other**: Completed a Full Stack Development course. Comfortable with Agile methodologies.
