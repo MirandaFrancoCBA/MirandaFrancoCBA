@@ -1,49 +1,57 @@
 # Hi there, I'm Franco Miranda 👋
 ### Junior Full Stack Developer | Backend-Oriented | Python Enthusiast 🐍
 
-[cite_start]Soy un desarrollador de software de Córdoba, Argentina[cite: 1, 2]. [cite_start]Me apasiona construir soluciones robustas, escalables y eficientes, con un fuerte enfoque en la lógica de negocio y la arquitectura del lado del servidor[cite: 5, 6]. 
+I'm a software developer based in Córdoba, Argentina. I’m passionate about building robust, scalable, and efficient solutions, with a strong focus on backend architecture and business logic.
 
-[cite_start]Actualmente me encuentro cursando el último año de la **Tecnicatura Superior en Desarrollo de Software** en el ISPC[cite: 11, 12, 13].
+Currently, I’m in the final year of my **Higher Technical Degree in Software Development** at ISPC.
 
-- [cite_start]🎓 **Formación**: Estudiante avanzado en ISPC y egresado del programa "Codo a Codo"[cite: 12, 18].
-- [cite_start]🌍 **Idiomas**: Inglés **C1 (Avanzado)**  | [cite_start]Estudiando Alemán y Japonés[cite: 57].
-- [cite_start]🛠️ **Filosofía**: Aplicación estricta de principios **SOLID**, OOP y Clean Code[cite: 7, 27].
-- [cite_start]⚡ **Soft Skills**: Gran capacidad de comunicación, liderazgo de equipos y resolución de problemas, desarrolladas a través de mi experiencia profesional previa[cite: 8, 54, 59, 61].
+- 🎓 **Education**: Advanced student at ISPC and graduate of the *Codo a Codo* Full Stack program  
+- 🌍 **Languages**: English **C1 (Advanced)** | Currently learning German and Japanese  
+- 🛠️ **Philosophy**: Strong application of **SOLID principles**, OOP, and Clean Code  
+- ⚡ **Soft Skills**: Strong communication, team leadership, and problem-solving skills developed through diverse professional experience  
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
-| Rama | Tecnologías |
+| Area | Technologies |
 | :--- | :--- |
-| **Backend** | [cite_start]**Python**, Django, FastAPI, SQL [cite: 14, 15, 37, 38] |
-| **Frontend** | [cite_start]**Angular**, TypeScript, JavaScript, HTML5, CSS3 [cite: 37, 38] |
-| **Mobile** | [cite_start]Kotlin, Jetpack Compose [cite: 37, 38] |
-| **Infraestructura** | [cite_start]Git, Docker, PostgreSQL, MySQL, Railway [cite: 15, 16, 29, 38] |
-| **Metodologías** | [cite_start]Agile (Scrum), Kanban (GitHub Projects) [cite: 32, 33, 39] |
+| **Backend** | **Python**, Django, FastAPI, SQL |
+| **Frontend** | **Angular**, TypeScript, JavaScript, HTML5, CSS3 |
+| **Mobile** | Kotlin, Jetpack Compose |
+| **Infrastructure** | Git, Docker, PostgreSQL, MySQL, Railway |
+| **Methodologies** | Agile (Scrum), Kanban (GitHub Projects) |
 
 ---
 
-### 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-* **[SmartStock](https://github.com/MirandaFrancoCBA/SmartStock)**: Sistema integral de gestión de inventario. Arquitectura moderna con **Django 6** y **Angular 19**, implementando autenticación **JWT**, interceptores y gestión de estado con **Signals**.
-* **[BandMate](https://github.com/MirandaFrancoCBA/BandMate)**: Aplicación móvil diseñada para la gestión operativa y comunicacional de bandas musicales.
-* **[BienestarPlus](https://github.com/ISPC-Soluciones/Bienestar-Plus)**: Plataforma web orientada a la salud, enfocada en el seguimiento de hábitos y bienestar personal.
+### 🔹 [SmartStock](https://github.com/MirandaFrancoCBA/SmartStock)
+Full-featured inventory management system built with **Django** and **Angular**.  
+Implements **JWT authentication**, HTTP interceptors, and state management with **Signals**.
 
----
+### 🔹 [BandMate](https://github.com/MirandaFrancoCBA/BandMate)
+Mobile application designed to improve communication and operational management for music bands.
 
-### 🌱 Actualmente profundizando en...
-* Optimización de APIs RESTful y microservicios.
-* Desarrollo móvil nativo con Kotlin.
-* [cite_start]Programación de sistemas embebidos con MicroPython[cite: 17, 28].
-
----
-
-### 📫 Conectemos
-* [cite_start]**LinkedIn**: [Franco Rodrigo Miranda](https://www.linkedin.com/in/franco-rodrigo-miranda-993710248/) [cite: 4]
-* **Portfolio**: [mirandafrancocba.github.io/Portfolio/](https://mirandafrancocba.github.io/Portfolio/)
-* [cite_start]**Email**: [mirandafranco.ispc@gmail.com](mailto:mirandafranco.ispc@gmail.com) [cite: 3]
+### 🔹 [BienestarPlus](https://github.com/ISPC-Soluciones/Bienestar-Plus)
+Web platform focused on health and wellness, designed to track habits and improve personal well-being.
 
 ---
 
-> *"Convertir problemas complejos en código simple y eficiente es lo que hago todos los días."*
+## 🌱 Currently Learning
+
+- RESTful API optimization and microservices architecture  
+- Native mobile development with Kotlin  
+- Embedded systems programming with MicroPython  
+
+---
+
+## 📫 Let's Connect
+
+- 💼 **LinkedIn**: https://www.linkedin.com/in/franco-rodrigo-miranda-993710248/  
+- 🌐 **Portfolio**: https://mirandafrancocba.github.io/Portfolio/  
+- 📧 **Email**: mirandafranco.ispc@gmail.com  
+
+---
+
+> *"Turning complex problems into simple and efficient code is what I do every day."*
