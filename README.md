@@ -109,9 +109,9 @@ Web platform focused on health and wellness tracking.
 
 # 📊 GitHub Stats
 
-![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirandaFrancoCBA&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MirandaFrancoCBA&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirandaFrancoCBA&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MirandaFrancoCBA&layout=compact&theme=tokyonight)
 
 ---
 
