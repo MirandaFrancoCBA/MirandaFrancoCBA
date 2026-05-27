@@ -111,7 +111,7 @@ Web platform focused on health and wellness tracking.
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MirandaFrancoCBA&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MirandaFrancoCBA&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MirandaFrancoCBA&layout=compact&theme=tokyonight)
 
 ---
 
